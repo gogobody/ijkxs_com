@@ -29,7 +29,6 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
     }
 })(function ($) {
     $.fn.tilt = function (options) {
-
         /**
          * RequestAnimationFrame
          */
